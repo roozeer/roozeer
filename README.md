@@ -1,6 +1,6 @@
 My name is Rashid OOZEER
 I am a medical Physicist working in Radiotherapy@Centre hospitalier d'Aajaccio
-I have allways been interested in Scripting, ever since Pinnacle existed
+I have allways been interested in Scripting, ever since Pinnacle existed.
 I am happoy now to join Raystation Community and very much keen to start ray_scripting and collaborating with the community
 
 <!---
